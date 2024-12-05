@@ -1,22 +1,37 @@
-<p align="center"> <img src="https://imgur.com/1mc1qX7.png" alt="JavaScript: trabalhando com threads para requisições simultâneas"> </p>
+<h1 align="center">
+ Cotação de Moeda
+</h1>
 
-<hr>
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+</p>
 
-<p align="center"> <img src="https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png" alt="Logo da Alura"> </p>
-<p align="center">Bytebank: o seu banco digital!</p>
+<p align="center">
+ <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=49AA26&labelColor=000000" alt="PRs welcome!" />
 
-## Assuntos abordados durante o curso
-* Fetch API
-* Threads
-* Concorrência
-* Paralelismo
-* Event Loop
-* Task Queue
-* WebWorkers
-* Single Thread
-* MultiThread
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+</p>
 
-## Tecnologias utilizadas no projeto
-* HTML
-* CSS
-* JavaScript
+<br>
+
+<p align="center">
+  <img alt="Bytebank" src=".github/bytebank.png" width="100%">
+</p>
+
+## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- HTML
+- CSS
+- JavaScript
+- Git e GitHub
+
+## 💻 Projeto
+
+Esse é um projeto que resolvi fazer para acompanhar a cotação das moedas em tempo real.
+
+
+
+Feito com ♥ by Rafael Paiva :wave:
